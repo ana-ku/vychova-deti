@@ -19,6 +19,7 @@ namespace eshop_s_detmi
             Uzitecnost = uzitecnost;
         }
         public abstract void PredstavSe();
+
         
         
     }
